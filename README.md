@@ -19,10 +19,12 @@ Echo is a modern social media platform that empowers users to express themselves
 
 ## 📱 Vedio
 
-<p align="center">
-user-attachments/assets/b9726d6d-8fd5-4219-b555-c874460540db
-</p>
+<div align="center">
 
+https://github.com/user-attachments/assets/8e1a1969-3c64-42aa-abcd-44fd735c008a
+
+
+</div>
 ## 🚀 Getting Started
 
 ### Prerequisites
