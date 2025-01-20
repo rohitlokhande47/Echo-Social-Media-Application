@@ -1,6 +1,6 @@
 # 🌟 Echo - Express Yourself
 
-![Echo Banner](path/to/banner.png)
+![Echo Banner](pathlight-icon-filled-256.png)
 
 Echo is a modern social media platform that empowers users to express themselves through engaging posts with text and images. Built with cutting-edge technologies like Jetpack Compose and Firebase, Echo delivers a seamless, real-time social experience on Android.
 
