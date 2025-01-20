@@ -17,10 +17,10 @@ Echo is a modern social media platform that empowers users to express themselves
 - 🚀 **Real-time Updates**: Instant content delivery via Firebase Firestore
 - 💫 **Engaging Animations**: Smooth transitions and loading states
 
-## 📱 Screenshots
+## 📱 Vedio
 
 <p align="center">
-  https://github.com/user-attachments/assets/1477af03-075d-406c-9b30-ea0d8b880ab8
+  https://github.com/user-attachments/assets/1477af03-075d-406c-9b30-ea0d8b880ab8.mp4
 </p>
 
 ## 🚀 Getting Started
