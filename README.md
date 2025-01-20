@@ -50,6 +50,33 @@ cd Echo-Social-Media-Application
 - Wait for the Gradle sync to complete
 - Click `Run > Run 'app'` or press `Shift+F10`
 - Select your device/emulator
+  
+## Cloudinary Integration
+
+Echo uses Cloudinary for storing and managing images. Cloudinary provides a robust and scalable solution for image storage, allowing users to upload and retrieve images efficiently.
+
+### Setup Cloudinary
+
+1. **Add Cloudinary dependency**:
+    ```kotlin
+    implementation("com.cloudinary:cloudinary-android:3.0.2")
+    ```
+
+2. **Initialize Cloudinary**:
+    ```kotlin
+    val config = mapOf(
+        "cloud_name" to "your_cloud_name",
+        "api_key" to "your_api_key",
+        "api_secret" to "your_api_secret"
+    )
+    val cloudinary = Cloudinary(config)
+    ```
+
+3. **Upload an image**:
+    ```kotlin
+    val file = File("path_to_image")
+    val uploadResult = cloudinary.uploader().upload(file, ObjectUtils.emptyMap())
+    ```
 
 ## 📱 Usage Guide
 
