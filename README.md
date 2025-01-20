@@ -20,7 +20,7 @@ Echo is a modern social media platform that empowers users to express themselves
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="[screenshots/home_screen.png](https://github.com/user-attachments/assets/1477af03-075d-406c-9b30-ea0d8b880ab8)" width="200" alt="Home Screen"/>
+  https://github.com/user-attachments/assets/1477af03-075d-406c-9b30-ea0d8b880ab8
 </p>
 
 ## 🚀 Getting Started
