@@ -20,7 +20,7 @@ Echo is a modern social media platform that empowers users to express themselves
 ## 📱 Vedio
 
 <p align="center">
-  https://github.com/user-attachments/assets/1477af03-075d-406c-9b30-ea0d8b880ab8.mp4
+user-attachments/assets/b9726d6d-8fd5-4219-b555-c874460540db
 </p>
 
 ## 🚀 Getting Started
