@@ -17,7 +17,7 @@ Echo is a modern social media platform that empowers users to express themselves
 - 🚀 **Real-time Updates**: Instant content delivery via Firebase Firestore
 - 💫 **Engaging Animations**: Smooth transitions and loading states
 
-## 📱 Vedio
+## 📱 video
 
 <div align="center">
 
